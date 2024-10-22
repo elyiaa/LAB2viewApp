@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="user_name">Lab 2</string>
+    <string name="user_pwd">Lab 2</string>
+    <string name="btn_login">Lab 2</string>
+    <string name="full_name">Enter your full name</string>
+    <string name="email">Your email@email.com</string>
+    <string name="ctc">Contact number example: +6013456789</string>
+    <string name="dob">Your DOB eg: 27/8/2000</string>
+</resources>
